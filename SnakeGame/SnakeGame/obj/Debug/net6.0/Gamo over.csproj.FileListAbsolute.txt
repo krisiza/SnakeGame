@@ -1,0 +1,15 @@
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\bin\Debug\net6.0\Gamo over.exe
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\bin\Debug\net6.0\Gamo over.deps.json
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\bin\Debug\net6.0\Gamo over.runtimeconfig.json
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\bin\Debug\net6.0\Gamo over.dll
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\bin\Debug\net6.0\Gamo over.pdb
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0\Gamo over.csproj.AssemblyReference.cache
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0\Gamo over.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0\Gamo over.AssemblyInfoInputs.cache
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0\Gamo over.AssemblyInfo.cs
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0\Gamo over.csproj.CoreCompileInputs.cache
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0\Gamo over.dll
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0\refint\Gamo over.dll
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0\Gamo over.pdb
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0\Gamo over.genruntimeconfig.cache
+C:\Users\kristiyana.za\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0\ref\Gamo over.dll
